@@ -12,10 +12,10 @@ const Hero = () => {
           className="text-center"
         >
           <h1 className="text-5xl sm:text-6xl font-bold text-gray-900 mb-6">
-            Your Personal AI Fashion Stylist
+            Your Personal Fashion Stylist
           </h1>
           <p className="text-xl sm:text-2xl text-gray-600 mb-12 max-w-3xl mx-auto">
-            Discover your perfect style with AI-powered color analysis and personalized fashion recommendations
+            Discover your perfect style with our advanced color analysis and personalized fashion recommendations
           </p>
           
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-16">
